@@ -550,7 +550,7 @@ MOBILE MENU
 *********************/
 
 .navbar-inverse {
-    background-color: rgb(72, 170, 113);
+    background-color: #3ca59d;
     border: 0;
     margin: 0;
     padding: 10px 0;
@@ -562,6 +562,7 @@ MOBILE MENU
 }
 
 .navbar-inverse .navbar-nav>li>a {
+    color: black !important;
     font-size: 13px;
     font-weight: 400;
     margin: 0;
@@ -2015,7 +2016,7 @@ RESPONSIVE
     .navbar-default .navbar-nav>.open>a,
     .navbar-default .navbar-nav>.open>a:focus,
     .navbar-default .navbar-nav>.open>a:hover {
-        background-color: #121212;
+        background-color: #3282b8;
         color: #ffffff;
     }
     .navbar-collapse {
