@@ -550,7 +550,7 @@ MOBILE MENU
 *********************/
 
 .navbar-inverse {
-    background-color: #3ca59d;
+    background-color: #01bacf;
     border: 0;
     margin: 0;
     padding: 10px 0;
@@ -1121,7 +1121,7 @@ FOOTER
 
 .copyrights {
     padding: 25px 0;
-    background-color: #151515;
+    background-color: #01bacf;
 }
 
 .newsletter-widget .form-control {
@@ -1942,7 +1942,7 @@ a:focus {
 }
 
 .absolute-widget::before {
-    border-right-color: #00a1b6;
+    border-right-color: #01bacf;
 }
 
 .owl-theme-02 .magnifier {
@@ -2016,7 +2016,7 @@ RESPONSIVE
     .navbar-default .navbar-nav>.open>a,
     .navbar-default .navbar-nav>.open>a:focus,
     .navbar-default .navbar-nav>.open>a:hover {
-        background-color: #3282b8;
+        background-color: #01bacf;
         color: #ffffff;
     }
     .navbar-collapse {
